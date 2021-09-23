@@ -6,7 +6,7 @@ public class exercicio1 {
 		System.out.println(recursiveMethod(-15)); // 0 
 		System.out.println(recursiveMethod(0));   // 0 
 		System.out.println(recursiveMethod(3));   //0 + 1 + 2 = 3 
-		System.out.println(recursiveMethod(5));   //0 + 1 + 2 + 3 + 4 = 10  
+		System.out.println(recursiveMethod(5));   //0 + 1 + 2 + 3 + 4  = 10  
 	} 
 
 	//A condição de parada é o numero recebico chegar a zero  
